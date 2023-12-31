@@ -1,0 +1,20 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 73dc578b-7dc9-40e1-a3d9-8620318d22b7)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "MYMGK1R812 for:\n* 850 mV VCCINT\n* 1.2V GTY_VTT" (at 68.58 29.21 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 8f394fa3-aa8f-4032-a444-af3d7fd709b8)
+  )
+  (text "MYMGK00504ERSR for:\n* 900 mV GTY_VCC\n* 1V2 DDR VCCO\n* 3V3"
+    (at 68.58 41.91 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 90b58e84-6278-4fda-8917-ba204ebe95b1)
+  )
+)
