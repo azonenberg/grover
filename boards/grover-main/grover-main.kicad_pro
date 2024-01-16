@@ -324,6 +324,42 @@
     [
       "4a179730-dc18-4246-ad2d-49ecd3bebb79",
       "Power Supply"
+    ],
+    [
+      "17d08f36-6a21-4759-a7c7-73527d01dd07",
+      "RGMII PHY"
+    ],
+    [
+      "6a41bd2b-31ae-4080-8f52-468f38775f76",
+      "Coax IOs"
+    ],
+    [
+      "9aff7423-8f82-4741-bd8a-388784fffda7",
+      "Clocking"
+    ],
+    [
+      "2060e76f-63b4-4115-90aa-164cb48975f9",
+      "Management"
+    ],
+    [
+      "1306ffb3-fbcc-4373-90da-ef77afde783f",
+      "SFP28 interfaces"
+    ],
+    [
+      "125bf097-76e4-4a89-9dab-c6894998006a",
+      "QSFP28 interfaces"
+    ],
+    [
+      "f0842ad6-ad0f-420e-9de4-9ca248ab9d29",
+      "FPGA support"
+    ],
+    [
+      "2c4dad03-2e1a-47e4-9b0d-37f0bbf74e64",
+      "DDR4 LRDIMM"
+    ],
+    [
+      "ee803763-8ae0-4ad5-a593-14bcb3f5390f",
+      "LVDS IO expansion"
     ]
   ],
   "text_variables": {}
