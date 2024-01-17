@@ -2939,7 +2939,7 @@
   (symbol (lib_id "xilinx-azonenberg:XILINX_ULTRASCALEPLUS_B676") (at 66.04 166.37 0) (unit 4)
     (in_bom yes) (on_board yes)
     (uuid c7173c1c-b910-4551-abf4-2b510c3ad212)
-    (property "Reference" "U?" (id 0) (at 66.04 170.18 0)
+    (property "Reference" "U15" (id 0) (at 66.04 170.18 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "XILINX_ULTRASCALEPLUS_B676" (id 1) (at 66.04 167.64 0)
